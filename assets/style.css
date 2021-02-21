@@ -1,0 +1,39 @@
+.hello {
+  display: flex;
+  justify-content: center;
+  font-size: 50px;
+  color: gold;
+}
+
+.nav_links {
+  background-color: goldenrod;
+}
+
+.nav_links ol {
+  display: flex;
+  justify-content: space-around;
+}
+
+.nav_links a {
+  text-decoration: none;
+  font-size: 3em;
+  font-family: "Akaya Telivigala", cursive;
+  color: brown;
+}
+
+.article {
+  padding-top: 100px;
+}
+
+.article a {
+  text-decoration: none;
+  font-size: 2em;
+  color: brown;
+  display: flex;
+  justify-content: flex-end;
+  margin-right: 120px;
+}
+
+.lorem_text {
+  font-family: "Shippori Mincho", serif;
+}
